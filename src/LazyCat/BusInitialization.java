@@ -8,6 +8,8 @@ import LazyCat.Bus;
     String [] horarios = {"Mañana","Tarde"};
     int[] precios = {10000,15000,19000,24000};
 
+    //test para ver los cambios en git
+
     BusInitialization(){
         for (int i = 0 ; i < this.arrayBuses.length; i++){ //recorre todos los Objetos Buses
 
