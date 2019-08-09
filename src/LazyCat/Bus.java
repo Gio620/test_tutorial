@@ -5,7 +5,7 @@ public class Bus {
     private String destino = null;
     private boolean [] asientos;
     private String horario = null;
-    private int valor= 0;
+    private int valor;
 
 
     public Bus(String salida, String destino, String horario, int valor) {
